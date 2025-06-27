@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Ecomerce", "Ecomerce.sqlproj", "{0B8D1686-0934-4872-9EE8-C1B4AB70FC5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B8D1686-0934-4872-9EE8-C1B4AB70FC5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B8D1686-0934-4872-9EE8-C1B4AB70FC5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B8D1686-0934-4872-9EE8-C1B4AB70FC5B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0B8D1686-0934-4872-9EE8-C1B4AB70FC5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B8D1686-0934-4872-9EE8-C1B4AB70FC5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B8D1686-0934-4872-9EE8-C1B4AB70FC5B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {982D6B7E-0713-4CCB-9947-AD62CD3CAB33}
+	EndGlobalSection
+EndGlobal
