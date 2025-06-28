@@ -57,5 +57,12 @@
   <Import Condition="'$(SQLDBExtensionsRefPath)' == ''" Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v$(VisualStudioVersion)\SSDT\Microsoft.Data.Tools.Schema.SqlTasks.targets" />
   <ItemGroup>
     <Folder Include="Properties" />
+    <Folder Include="Tabelas" />
+  </ItemGroup>
+  <ItemGroup>
+    <Build Include="Tabelas\Dim_Produto.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <RefactorLog Include="Ecomerce.refactorlog" />
   </ItemGroup>
 </Project>
