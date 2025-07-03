@@ -61,6 +61,10 @@
   </ItemGroup>
   <ItemGroup>
     <Build Include="Tabelas\Dim_Produto.sql" />
+    <Build Include="Tabelas\Dim_Categoria.sql" />
+    <Build Include="Tabelas\Dim_Items.sql" />
+    <Build Include="Tabelas\Fact_Ordens.sql" />
+    <Build Include="Tabelas\Dim_Clientes.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="Ecomerce.refactorlog" />
